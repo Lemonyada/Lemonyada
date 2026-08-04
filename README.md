@@ -2,7 +2,7 @@
 <br>
 <img width="1196" height="243" alt="Untitled26_20260804094952" src="https://github.com/user-attachments/assets/53b54232-eb75-4af1-8e96-8414a112b298" />
 
-![ 𝑅𝑜𝒷𝒾𝓃𝓈 ](:https://komarev.com/ghpvc/?username=Lemonyada&label=𝑅𝑜𝒷𝒾𝓃𝓈%20&base=3449&color=601E1F&style=flat-square)
+![𝑅𝑜𝒷𝒾𝓃𝓈](:https://komarev.com/ghpvc/?username=Lemonyada&label=𝑅𝑜𝒷𝒾𝓃𝓈%20&base=3449&color=601E1F&style=flat-square)
 
 <img width="574" height="435" alt="Untitled25_20260804103153" src="https://github.com/user-attachments/assets/383a5d11-403a-4e85-a236-c419d2c295ef" />
 
