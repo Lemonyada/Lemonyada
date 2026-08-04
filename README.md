@@ -21,7 +21,7 @@ $\color{#8D2F2F}{\textsf{Other}}$ $\color{#B94546}{\textsf{favorites!}}$
 
 $\color{#8D2F2F}{\textsf{Credits}}$ $\color{#B94546}{\textsf{to}}$ $\color{#8D2F2F}{\textsf{sebvsene!}}$
 
-𝓈[ 𝓈𝑒𝒷𝓋𝓈𝑒𝓃𝑒 ](https://github.com/sebvsene)
+[ 𝓈𝑒𝒷𝓋𝓈𝑒𝓃𝑒 ](https://github.com/sebvsene)
 
 
 <img width="1196" height="243" alt="Untitled26_20260804095208" src="https://github.com/user-attachments/assets/5b1bdcd7-0f0a-47d8-8289-eb92f71edb36" />
