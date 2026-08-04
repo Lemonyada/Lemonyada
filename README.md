@@ -9,8 +9,8 @@
 <img width="450" height="300" alt="Untitled27_20260804100304" src="https://github.com/user-attachments/assets/35e3e417-434c-4835-b6e9-ad445bd2ca08" />
 
 [![新BOOK](https://img.shields.io/badge/-新BOOK-780504?style=for-the-badge&logo=coffee&logoColor=black)](https://lemonyada.atabook.org) [![STRAW
-PAGE/UNFINISHED](https://img.shields.io/badge/-STRAWPAGE/UNFNISHED-8D2F2F?style=for-the-badge&logo=coffee&logoColor=black)](https://placeholderthingy.straw.page) [![PRNS.PG
-PAGE/UNFINISHED](https://img.shields.io/badge/-PRNS.PG-B94546?style=for-the-badge&logo=coffee&logoColor=black)](https://placeholderthingy.straw.page)
+PAGE/UNFINISHED](https://img.shields.io/badge/-STRAWPAGE/UNFNISHED-8D2F2F?style=for-the-badge&logo=coffee&logoColor=black)](https://placeholderthingy.straw.page) 
+![PRNS.PG](https://img.shields.io/badge/-PRNS.PG-B94546?style=for-the-badge&logo=coffee&logoColor=black)
 [![RENTRY/MATCHING](https://img.shields.io/badge/-RENTRY/MATCHING-2C0502?style=for-the-badge&logo=coffee&logoColor=black)](https://rentry.co/thejusticeIeague)
 
 <img width="1000" height="213" alt="Untitled28_20260804101759" src="https://github.com/user-attachments/assets/ff0dff1d-6b01-4689-80f4-2846791f3196" />
